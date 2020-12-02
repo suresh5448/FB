@@ -1,5 +1,5 @@
 <aura:component implements="flexipage:availableForAllPageTypes,force:appHostable" access="global">
-    
+     
     <div class="waveTabWidth">
         <lightning:tabset aura:id="waveTabs" class="slds-size--1-of-1">  
                 <lightning:tab title="Client List">
